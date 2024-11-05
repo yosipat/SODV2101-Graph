@@ -1,0 +1,17 @@
+C:\Users\Yosip\Desktop\SODV2101\A2_Graphs\obj\Debug\net8.0-windows\A2_Graphs.Form1.resources
+C:\Users\Yosip\Desktop\SODV2101\A2_Graphs\obj\Debug\net8.0-windows\A2_Graphs.csproj.GenerateResource.cache
+C:\Users\Yosip\Desktop\SODV2101\A2_Graphs\obj\Debug\net8.0-windows\A2_Graphs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yosip\Desktop\SODV2101\A2_Graphs\obj\Debug\net8.0-windows\A2_Graphs.AssemblyInfoInputs.cache
+C:\Users\Yosip\Desktop\SODV2101\A2_Graphs\obj\Debug\net8.0-windows\A2_Graphs.AssemblyInfo.cs
+C:\Users\Yosip\Desktop\SODV2101\A2_Graphs\obj\Debug\net8.0-windows\A2_Graphs.csproj.CoreCompileInputs.cache
+C:\Users\Yosip\Desktop\SODV2101\A2_Graphs\bin\Debug\net8.0-windows\A2_Graphs.exe
+C:\Users\Yosip\Desktop\SODV2101\A2_Graphs\bin\Debug\net8.0-windows\A2_Graphs.deps.json
+C:\Users\Yosip\Desktop\SODV2101\A2_Graphs\bin\Debug\net8.0-windows\A2_Graphs.runtimeconfig.json
+C:\Users\Yosip\Desktop\SODV2101\A2_Graphs\bin\Debug\net8.0-windows\A2_Graphs.dll
+C:\Users\Yosip\Desktop\SODV2101\A2_Graphs\bin\Debug\net8.0-windows\A2_Graphs.pdb
+C:\Users\Yosip\Desktop\SODV2101\A2_Graphs\obj\Debug\net8.0-windows\A2_Graphs.dll
+C:\Users\Yosip\Desktop\SODV2101\A2_Graphs\obj\Debug\net8.0-windows\refint\A2_Graphs.dll
+C:\Users\Yosip\Desktop\SODV2101\A2_Graphs\obj\Debug\net8.0-windows\A2_Graphs.pdb
+C:\Users\Yosip\Desktop\SODV2101\A2_Graphs\obj\Debug\net8.0-windows\A2_Graphs.genruntimeconfig.cache
+C:\Users\Yosip\Desktop\SODV2101\A2_Graphs\obj\Debug\net8.0-windows\ref\A2_Graphs.dll
+C:\Users\Yosip\Desktop\SODV2101\A2_Graphs\obj\Debug\net8.0-windows\A2_Graphs.Properties.Resources.resources
